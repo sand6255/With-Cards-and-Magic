@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4d845bb497c69f4cb2ab63a3033eec3, type: 3}
+  m_Name: AttackPowerFlowGain
+  m_EditorClassIdentifier: 
+  statusToGain: {fileID: 11400000, guid: 5683f2a930aa1d0429936d843ec2fe68, type: 2}
+  applyOnSelf: 1

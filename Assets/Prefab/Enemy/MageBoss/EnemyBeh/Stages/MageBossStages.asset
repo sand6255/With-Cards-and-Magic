@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf27ec6882af0a146879973a3c141f40, type: 3}
+  m_Name: MageBossStages
+  m_EditorClassIdentifier: 
+  enemyStages:
+  - monsterActions:
+    - {fileID: 11400000, guid: 33d7428b9fdade246bff12242b5f4bfa, type: 2}
+    - {fileID: 11400000, guid: 225f30a7f3115c64882160ffcd517388, type: 2}
+    - {fileID: 11400000, guid: 33d7428b9fdade246bff12242b5f4bfa, type: 2}
+    hpPerantageToEnterStage: 0.5
+  - monsterActions:
+    - {fileID: 11400000, guid: f739c1f1150dc7246ad6f3e7db066c60, type: 2}
+    - {fileID: 11400000, guid: 7a4023a29a0695b42b32ac8484267a13, type: 2}
+    - {fileID: 11400000, guid: f739c1f1150dc7246ad6f3e7db066c60, type: 2}
+    hpPerantageToEnterStage: 0

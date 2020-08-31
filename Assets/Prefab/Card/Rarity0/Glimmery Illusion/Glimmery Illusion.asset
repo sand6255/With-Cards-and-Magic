@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27768adbe8e4b094482692be811742f6, type: 3}
+  m_Name: Glimmery Illusion
+  m_EditorClassIdentifier: 
+  applyEffectsOnCardPlay:
+  - {fileID: 11400000, guid: d267e1cd56e3cbf429ef5d36cd7f3c54, type: 2}
+  nameText: Glimmery Illusion
+  cardText: Gain /*0armor*/ armor.
+  manaCost: 0
+  cardSprite: {fileID: 21300000, guid: ed5a72b0978397e4e95eb0ab9ce585db, type: 3}

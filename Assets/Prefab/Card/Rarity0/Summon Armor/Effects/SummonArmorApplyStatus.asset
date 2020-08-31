@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7043071086008c741a9059c8a1bc8e62, type: 3}
+  m_Name: SummonArmorApplyStatus
+  m_EditorClassIdentifier: 
+  duration: 16
+  status: {fileID: 11400000, guid: e5109944c0d77ba45a67b843c44be0e0, type: 2}
+  applyOnCaster: 1
+  mod: 2

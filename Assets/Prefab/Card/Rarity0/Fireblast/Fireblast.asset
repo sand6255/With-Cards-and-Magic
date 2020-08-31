@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27768adbe8e4b094482692be811742f6, type: 3}
+  m_Name: Fireblast
+  m_EditorClassIdentifier: 
+  applyEffectsOnCardPlay:
+  - {fileID: 11400000, guid: 989f04f3a6e0ffd4caed0360b883aabc, type: 2}
+  nameText: Fireblast
+  cardText: Deal /*0damage*/ damage.
+  manaCost: 0
+  cardSprite: {fileID: 21300000, guid: be415e0e9867b7841ab669d12e69861f, type: 3}

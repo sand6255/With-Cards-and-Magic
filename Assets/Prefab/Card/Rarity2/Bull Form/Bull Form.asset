@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27768adbe8e4b094482692be811742f6, type: 3}
+  m_Name: Bull Form
+  m_EditorClassIdentifier: 
+  applyEffectsOnCardPlay:
+  - {fileID: 11400000, guid: 01f4d4002e6d55340b026c471a6bbc90, type: 2}
+  nameText: Bull Form
+  cardText: Gain /*0duration*/ /*0status*/.
+  manaCost: 5
+  cardSprite: {fileID: 21300000, guid: b4220ed7d1979864a9664e0373a6fb21, type: 3}

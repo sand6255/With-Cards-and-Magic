@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27768adbe8e4b094482692be811742f6, type: 3}
+  m_Name: Poisonous Cloud
+  m_EditorClassIdentifier: 
+  applyEffectsOnCardPlay:
+  - {fileID: 11400000, guid: 856604f09c26b6e4fa04745b5d6afa41, type: 2}
+  nameText: Poisonous Cloud
+  cardText: Apply /*0duration*/ /*0status*/ on enemy.
+  manaCost: 2
+  cardSprite: {fileID: 21300000, guid: 1433796ab8b0ab5478f1067cd6d6b80b, type: 3}

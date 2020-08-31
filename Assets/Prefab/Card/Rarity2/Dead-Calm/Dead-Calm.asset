@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27768adbe8e4b094482692be811742f6, type: 3}
+  m_Name: Dead-Calm
+  m_EditorClassIdentifier: 
+  applyEffectsOnCardPlay:
+  - {fileID: 11400000, guid: 31294521ab501a44e97df167a975ea7b, type: 2}
+  - {fileID: 11400000, guid: 9e8799a00c77b3147ad5b67a46f5da6c, type: 2}
+  nameText: Dead-Calm
+  cardText: Draw /*0cardsToDraw*/ cards and gain /*1manaToAdd*/ mana.
+  manaCost: 0
+  cardSprite: {fileID: 21300000, guid: 52312459d6a456e4a926619762f86c3f, type: 3}
